@@ -7,6 +7,6 @@ fixed errors:
 - space after println
 - curly braces mismatch
 
-#Text03.java 
+# Text03.java 
 - Added command print legs
 - method calls 
